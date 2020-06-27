@@ -4,4 +4,8 @@ Rencanga Belajar Pemrograman
   * Mempelajari CSS3
   * Mempelajari CSS Layouting
 - Mempelajari JavaScript
+  * Mempelajari JavaScript Dasar
+  * Mempelajari DOM JavaScript
 - Mempelajari PHP
+  * Mempelajari PHP Dasar
+  * Mempelajari PHP OOP
