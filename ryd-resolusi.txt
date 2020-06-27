@@ -1,5 +1,4 @@
 Resolusi ryd kedepan
-- Mempelajari Rekayasa Kebutuhan Perangkat Lunak
 - Mempelajari Manajemen Proyek Perangkat Lunak
 - Mempelajari Desain Antarmuka Pengguna
 - Mempelajari Desain Pengalaman Pengguna
