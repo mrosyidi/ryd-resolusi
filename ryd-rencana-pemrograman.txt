@@ -3,9 +3,14 @@ Rencanga Belajar Pemrograman
   * Mempelajari CSS Dasar
   * Mempelajari CSS3
   * Mempelajari CSS Layouting
+  * Mempelajari Bootstrap
 - Mempelajari JavaScript
   * Mempelajari JavaScript Dasar
   * Mempelajari DOM JavaScript
+  * Mempelajari jQuery
+  * Mempelajari VueJS
 - Mempelajari PHP
   * Mempelajari PHP Dasar
   * Mempelajari PHP OOP
+  * Mempelajari PHP MVC
+  * Mempelajari CodeIgniter
