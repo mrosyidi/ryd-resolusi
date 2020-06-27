@@ -8,3 +8,11 @@ Resolusi ryd kedepan
 - Mempelajari Konstruksi Perangkat Lunak
 - Mempelajari Penjaminan Mutu Perangkat Lunak
 - Mempelajari Penyempurnaan Proses Perangkat Lunak
+- Mempelajari Evolusi Perangkat Lunak
+- Mempelajari Ekonomi Rekayasa Perangkat Lunak
+- Mempelajari Struktur Data
+- Mempelajari Analisis dan Desain Algoritma
+- Mempelajari Pemrograman Berorientasi Objek
+- Mempelajari Sistem Basis Data
+- Mempelajari Manajemen Basis Data
+- Mempelajari Pemrograman Berbasis Kerangka Kerja
