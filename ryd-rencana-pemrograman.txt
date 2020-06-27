@@ -1,0 +1,7 @@
+Rencanga Belajar Pemrograman
+- Mempelajari CSS
+  * Mempelajari CSS Dasar
+  * Mempelajari CSS3
+  * Mempelajari CSS Layouting
+- Mempelajari JavaScript
+- Mempelajari PHP
