@@ -4,6 +4,8 @@ Rencana Matematika
   * Mempelajari Matematika Kelas XI
   * Mempelajari Matematika Kelas XII
 - Mempelajari Kalkulus
+  * Mempelajari Kalkulus I
+  * Mempelajari Kalkulus II
 - Mempelajari Matematika Diskrit
 - Mempelajari Aljabar Linier
 - Mempelajari Logika Matematika
