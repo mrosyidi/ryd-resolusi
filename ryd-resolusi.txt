@@ -1,0 +1,10 @@
+Resolusi ryd kedepan
+- Mempelajari Rekayasa Kebutuhan Perangkat Lunak
+- Mempelajari Manajemen Proyek Perangkat Lunak
+- Mempelajari Desain Antarmuka Pengguna
+- Mempelajari Desain Pengalaman Pengguna
+- Mempelajari Perancangan Perangkat Lunak
+- Mempelajari Arsitektur Perangkat Lunak
+- Mempelajari Konstruksi Perangkat Lunak
+- Mempelajari Penjaminan Mutu Perangkat Lunak
+- Mempelajari Penyempurnaan Proses Perangkat Lunak
