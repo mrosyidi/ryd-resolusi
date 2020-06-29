@@ -10,4 +10,5 @@ Rencana Matematika
 - Mempelajari Aljabar Linier
   * Mempelajari Aljabar Linier 1
   * Mempelajari Aljabar Linier 2
+  * Mempelajari Alajabar Linier Elementer
 - Mempelajari Logika Matematika
