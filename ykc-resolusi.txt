@@ -1,4 +1,7 @@
 Resolusi ykc kedepan
 - Mempelajari Kecerdasan Buatan
+  * Mempelajari Struktur Data
+  * Mempelajari Analisis dan Desain Algoritma
+  * Mempelajari Probabilitas dan Statistik
 - Mempelajari Kecerdasan Komputasional
 - Mempelajari Topik Khusus Algoritma dan Pemrograman
