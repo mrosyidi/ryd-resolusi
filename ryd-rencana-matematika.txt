@@ -8,4 +8,6 @@ Rencana Matematika
   * Mempelajari Kalkulus II
 - Mempelajari Matematika Diskrit
 - Mempelajari Aljabar Linier
+  * Mempelajari Aljabar Linier 1
+  * Mempelajari Aljabar Linier 2
 - Mempelajari Logika Matematika
